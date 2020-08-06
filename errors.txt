@@ -1,0 +1,1 @@
+05/07/2020;09:38;ScriptCache.exe;Out of memory;917/07/2020;09:38;ScriptCache.exe;Out of memory;912/08/2020;19:19;ServiceNotifications.exe;Email failed;808/08/2020;16:19;ServiceNotifications.exe;Email failed;8
