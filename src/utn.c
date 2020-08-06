@@ -226,14 +226,7 @@ int SacarLaSuma(int pArray[], int cantidad)
 	}
 	return acumulador;
 }
-/*void testArray(int pArray[],int cantidad)
-{
-	printf("\n Array es :%d ",pArray[0]);
-	printf("\n Array es :%d ",pArray);
-	printf("\n Puntero 0 es :%d ",&pArray[0]);
-	printf("\n Puntero 1 es :%d ",&pArray[1]);
-	printf("\n Puntero ULTIMO es :%d ",&pArray[-1]);
-}*/
+
 int SacarCantidadCargada(int pArray[], int cantidad)
 {
 	int i;
